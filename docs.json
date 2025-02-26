@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Start Here",
         "groups": [
           {
             "group": "Get Started",
@@ -32,6 +32,26 @@
               "essentials/reusable-snippets"
             ]
           }
+        ]
+      },
+      {
+        "tab": "Environments",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "webgui/introduction",
+              "webgui/setup"
+            ]
+          },
+          {
+            "group": "WEBGUIs",
+            "pages": [
+              "webgui/os/ripenos",
+              "webgui/os/elixros",
+              "webgui/os/fluxos"
+            ]
+          },
         ]
       },
       {
