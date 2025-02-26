@@ -40,16 +40,16 @@
           {
             "group": "Get Started",
             "pages": [
-              "webgui/introduction",
-              "webgui/setup"
+              "Environments/introduction",
+              "Environments/setup"
             ]
           },
           {
             "group": "WEBGUIs",
             "pages": [
-              "webgui/os/ripenos",
-              "webgui/os/elixros",
-              "webgui/os/fluxos"
+              "Environments/os/ripenos",
+              "Environments/os/elixros",
+              "Environments/os/fluxos"
             ]
           }
         ]
