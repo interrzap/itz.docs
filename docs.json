@@ -4,8 +4,8 @@
   "name": "InterrZap",
   "colors": {
     "primary": "#444aaa",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#444aaa",
+    "dark": "#444aaa"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -75,8 +75,8 @@
     }
   },
   "logo": {
-    "light": "/logo/InterrZap_secondary_icon.svg",
-    "dark": "/logo/InterrZap_secondary_icon.svg"
+    "light": "/logo/InterrZap_primary_icon.png",
+    "dark": "/logo/InterrZap_primary_icon.png"
   },
   "navbar": {
     "links": [
@@ -87,7 +87,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Open WEBGUI",
       "href": "https://dashboard.mintlify.com"
     }
   },
