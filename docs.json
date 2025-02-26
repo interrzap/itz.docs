@@ -7,7 +7,7 @@
     "light": "#444aaa",
     "dark": "#444aaa"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/interrzap-logo.svg",
   "navigation": {
     "tabs": [
       {
@@ -35,20 +35,13 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Marketplace",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Get Started",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete"
+              "Marketplace/introduction",
+              "Marketplace/setup"
             ]
           }
         ]
@@ -75,8 +68,8 @@
     }
   },
   "logo": {
-    "light": "/logo/InterrZap_primary_icon.png",
-    "dark": "/logo/InterrZap_primary_icon.png"
+    "light": "interrzap-logo.svg",
+    "dark": "interrzap-logo.svg"
   },
   "navbar": {
     "links": [
