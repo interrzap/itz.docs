@@ -18,7 +18,8 @@
             "pages": [
               "introduction",
               "quickstart",
-              "development"
+              "development",
+              "subsciption"
             ]
           },
           {
@@ -61,7 +62,8 @@
             "group": "Get Started",
             "pages": [
               "Marketplace/introduction",
-              "Marketplace/setup"
+              "Marketplace/setup",
+              "Marketplace/program"
             ]
           }
         ]
