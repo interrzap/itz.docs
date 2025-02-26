@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "InterrZap",
   "colors": {
     "primary": "#444aaa",
     "light": "#07C983",
@@ -75,8 +75,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/InterrZap_secondary_icon.svg",
+    "dark": "/logo/InterrZap_secondary_icon.svg"
   },
   "navbar": {
     "links": [
