@@ -17,8 +17,9 @@
             "group": "Get Started",
             "pages": [
               "introduction",
-              "foundation",
-              "development",
+              "quickStart",
+              "setup",
+              "integration",
               "subscription"
             ]
           }
