@@ -19,30 +19,36 @@
             "pages": [
               "introduction",
               "quickStart",
-              "subscription",
-              "faq"
+              "subscription"
             ]
           },
           {
             "group": "Environments",
             "pages": [
-              "introduction",
               "WEBUIs",
-              "Layout and references"
+              "Walkthrough",
+              "Features"
             ]
           },
           {
             "group": "Integration",
             "pages": [
-              "introduction",
-              "setup"
+              "setup",
+              "Options"
             ]
           },
           {
             "group": "Marketplace",
             "pages": [
-              "introduction",
-              "setup"
+              "Workaround",
+              "Marketplace Program"
+            ]
+          },
+          {
+            "group": "Contact & Support",
+            "pages": [
+              "Support lines",
+              "faq"
             ]
           }
         ]
