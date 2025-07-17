@@ -2,6 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "InterrZap",
+  "description":"A one stop platform for all your productivity to be fostered in your own personal ecosystem.",
   "colors": {
     "primary": "#444aaa",
     "light": "#444aaa",
@@ -18,43 +19,30 @@
             "pages": [
               "introduction",
               "quickStart",
-              "setup",
-              "integration",
               "subscription",
               "faq"
             ]
-          }
-        ]
-      },
-      {
-        "tab": "Environments",
-        "groups": [
+          },
           {
-            "group": "Get Started",
+            "group": "Environments",
             "pages": [
-              "Environments/introduction",
-              "Environments/setup"
+              "introduction",
+              "WEBUIs",
+              "Layout and references"
             ]
           },
           {
-            "group": "WEBGUIs",
+            "group": "Integration",
             "pages": [
-              "Environments/os/ripenos",
-              "Environments/os/elixros",
-              "Environments/os/fluxos"
+              "introduction",
+              "setup"
             ]
-          }
-        ]
-      },
-      {
-        "tab": "Marketplace",
-        "groups": [
+          },
           {
-            "group": "Get Started",
+            "group": "Marketplace",
             "pages": [
-              "Marketplace/introduction",
-              "Marketplace/setup",
-              "Marketplace/program"
+              "introduction",
+              "setup"
             ]
           }
         ]
@@ -77,14 +65,22 @@
   "navbar": {
     "links": [
       {
+        "label": "AI Support",
+        "href": "https://interrzap-ai-support.zapier.app/"
+      },
+      {
         "label": "Support",
-        "href": "https://interrzap.web.app/Contact"
+        "href": "https://interrzap.help.center/"
+      },
+      {
+        "label": "Community",
+        "href": "https://discord.gg/qGs7dunZUe"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Home",
-      "href": "https://interrzap.web.app"
+      "label": "Contact Us",
+      "href": "https://interrzap.web.app/Contact"
     }
   },
   "footer": {
